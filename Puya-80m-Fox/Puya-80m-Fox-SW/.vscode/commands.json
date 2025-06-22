@@ -1,0 +1,36 @@
+{
+  "commands": [
+    {
+      "command": "commands.refresh", 
+      "text": "$(refresh)",
+      "tooltip": "Refresh Commands plugin",
+      "priority": 1,
+      "color": "#9BF"
+    },
+    {
+      "command": "makefile.configure", 
+      "text": "$(lightbulb)",
+      "tooltip": "Resolve IntelliSense bugs based on Makefile contents",
+      "priority": 2,
+      "color": "#EEE"
+    },
+    {
+      "command": "workbench.action.tasks.runTask",
+      "arguments": ["build"],
+      "text": "Build & Upload $(play)",
+      "tooltip": "Build and process all files",
+      "alignment": "left",
+      "priority": 3,
+      "color": "#fff"
+    },
+    {
+      "command": "workbench.action.tasks.runTask",
+      "arguments": ["compile"],
+      "text": "Compile $(gear)",
+      "tooltip": "Build and process all files",
+      "alignment": "left",
+      "priority": 3,
+      "color": "#fff"
+    }
+  ]
+}

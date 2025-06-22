@@ -1,0 +1,1389 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (atexit)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o) (__sread)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o) (_close_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o) (errno)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o) (_impure_ptr)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o) (_read_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o) (_write_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_fini_array)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o) (__register_exitproc)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o) (__call_exitprocs)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o) (_free_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o) (__malloc_lock)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+                              ./Build/User/main.o (__gnu_thumb1_case_uqi)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                              ./Build/User/main.o (__aeabi_uidiv)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+                              ./Build/User/main.o (__aeabi_idiv)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+                              ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o (setvbuf)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+                              ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o (__errno)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+                              ./Build/User/persist.o (memcpy)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o) (malloc)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o) (__swhatbuf_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o) (_fstat_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o) (_isatty_r)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+/home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+                              /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .text.atexit   0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x1c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x3c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa8 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x38 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0xc /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xc0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fini.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xc0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .bss.__atexit0
+                0x00000000       0x8c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .data.__atexit_dummy
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xbc /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .bss.__atexit  0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x11c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x56 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x30 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 ./Build/User/persist.o
+ .data          0x00000000        0x0 ./Build/User/persist.o
+ .bss           0x00000000        0x0 ./Build/User/persist.o
+ .text          0x00000000        0x0 ./Build/User/py32f0xx_it.o
+ .data          0x00000000        0x0 ./Build/User/py32f0xx_it.o
+ .bss           0x00000000        0x0 ./Build/User/py32f0xx_it.o
+ .text          0x00000000        0x0 ./Build/User/main.o
+ .data          0x00000000        0x0 ./Build/User/main.o
+ .bss           0x00000000        0x0 ./Build/User/main.o
+ .rodata.ARR    0x00000000        0x4 ./Build/User/main.o
+ .rodata.PSC    0x00000000        0x4 ./Build/User/main.o
+ .rodata.INVALID_CHARACTER
+                0x00000000        0x1 ./Build/User/main.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .text.LL_EXTI_DeInit
+                0x00000000       0x28 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .text.LL_EXTI_Init
+                0x00000000       0xa8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .text.LL_EXTI_StructInit
+                0x00000000        0xc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_info    0x00000000      0x4f6 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_abbrev  0x00000000      0x1d2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_loc     0x00000000      0x16e ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_ranges  0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_line    0x00000000      0x37c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_str     0x00000000      0x357 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .debug_frame   0x00000000       0x40 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .debug_info    0x00000000       0x64 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .debug_abbrev  0x00000000       0x26 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .debug_aranges
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .debug_line    0x00000000       0x53 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .debug_str     0x00000000      0x190 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .debug_info    0x00000000       0x64 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .debug_abbrev  0x00000000       0x26 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .debug_aranges
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .debug_line    0x00000000       0x53 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .debug_str     0x00000000      0x190 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .debug_info    0x00000000       0x64 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .debug_abbrev  0x00000000       0x26 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .debug_aranges
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .debug_line    0x00000000       0x53 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .debug_str     0x00000000      0x190 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_DeInit
+                0x00000000       0x68 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_GetMCOClockFreq
+                0x00000000       0x78 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_GetLSCClockFreq
+                0x00000000        0x6 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.RCC_GetSystemClockFreq
+                0x00000000       0x34 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.RCC_GetHCLKClockFreq
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.RCC_GetPCLK1ClockFreq
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_GetSystemClocksFreq
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_GetCOMPClockFreq
+                0x00000000       0x40 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text.LL_RCC_GetLPTIMClockFreq
+                0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_info    0x00000000      0x7f4 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_abbrev  0x00000000      0x2f5 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_loc     0x00000000      0x30e ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_aranges
+                0x00000000       0x60 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_ranges  0x00000000      0x130 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_line    0x00000000      0x678 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_str     0x00000000      0x541 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .debug_frame   0x00000000       0xc0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .text.LL_mDelay
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .text.LL_SetFlashLatency
+                0x00000000       0x34 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.FLASH_PageErase
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .RamFunc       0x00000000       0x3c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OB_Unlock
+                0x00000000       0x28 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OB_Lock
+                0x00000000       0x1c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OB_Launch
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_GetError
+                0x00000000        0xc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x00000000       0x34 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_Erase
+                0x00000000      0x1bc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_Erase_IT
+                0x00000000      0x148 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_Program
+                0x00000000      0x110 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_PageProgram
+                0x00000000        0xe ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_Program_IT
+                0x00000000      0x10c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_PageProgram_IT
+                0x00000000        0xe ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OB_RDP_LevelConfig
+                0x00000000       0x58 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OBProgram
+                0x00000000      0x16c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OBGetConfig
+                0x00000000       0x3c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_EndOfOperationCallback
+                0x00000000        0x2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_OperationErrorCallback
+                0x00000000        0x2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text.LL_FLASH_IRQHandler
+                0x00000000       0xb8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .rodata._FlashTimmingParam
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .bss.pFlash    0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .text.LL_SPI_DeInit
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .text.LL_SPI_Init
+                0x00000000       0x78 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .text.LL_SPI_StructInit
+                0x00000000       0x16 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_info    0x00000000      0x508 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_abbrev  0x00000000      0x1eb ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_loc     0x00000000      0x154 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_ranges  0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_line    0x00000000      0x312 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_str     0x00000000      0x38d ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .debug_frame   0x00000000       0x4c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_DeInit
+                0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_StructInit
+                0x00000000       0x12 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_OC_StructInit
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_OC_Init
+                0x00000000      0x1c8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_IC_StructInit
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_IC_Init
+                0x00000000       0xe8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_ENCODER_StructInit
+                0x00000000       0x1c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_ENCODER_Init
+                0x00000000       0x5c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_HALLSENSOR_StructInit
+                0x00000000        0xc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_HALLSENSOR_Init
+                0x00000000       0x60 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_BDTR_StructInit
+                0x00000000       0x12 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text.LL_TIM_BDTR_Init
+                0x00000000       0x48 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .text.LL_CRC_DeInit
+                0x00000000       0x1c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_info    0x00000000      0x1e8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_abbrev  0x00000000      0x13a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_loc     0x00000000       0x8f ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_aranges
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_ranges  0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_line    0x00000000      0x1f7 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_str     0x00000000      0x22d ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .debug_frame   0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .text.LL_COMP_DeInit
+                0x00000000       0x12 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .text.LL_COMP_Init
+                0x00000000       0x68 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .text.LL_COMP_StructInit
+                0x00000000       0x16 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_info    0x00000000      0x2dd ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_abbrev  0x00000000      0x15f ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_loc     0x00000000      0x101 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_ranges  0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_line    0x00000000      0x2bc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_str     0x00000000      0x2c6 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .debug_frame   0x00000000       0x4c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .text.LL_LPTIM_DeInit
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .text.LL_LPTIM_StructInit
+                0x00000000        0x8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .text.LL_LPTIM_Init
+                0x00000000       0x28 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_info    0x00000000      0x45d ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_abbrev  0x00000000      0x1de ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_loc     0x00000000      0x106 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_ranges  0x00000000       0x38 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_line    0x00000000      0x298 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_str     0x00000000      0x335 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .debug_frame   0x00000000       0x48 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_CommonDeInit
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_DeInit
+                0x00000000      0x10c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_Init
+                0x00000000       0x38 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_StructInit
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_REG_Init
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text.LL_ADC_REG_StructInit
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_info    0x00000000      0x893 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_abbrev  0x00000000      0x278 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_loc     0x00000000      0x2bd ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_aranges
+                0x00000000       0x48 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_ranges  0x00000000       0x70 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_line    0x00000000      0x538 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_str     0x00000000      0x4d2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .debug_frame   0x00000000       0x98 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text.LL_USART_DeInit
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text.LL_USART_Init
+                0x00000000       0xe4 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text.LL_USART_StructInit
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text.LL_USART_ClockInit
+                0x00000000       0x40 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text.LL_USART_ClockStructInit
+                0x00000000        0xc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_info    0x00000000      0x824 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_abbrev  0x00000000      0x2a2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_loc     0x00000000      0x39a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_aranges
+                0x00000000       0x40 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_ranges  0x00000000       0x78 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_line    0x00000000      0x438 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_str     0x00000000      0x522 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .debug_frame   0x00000000       0x7c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .text.LL_GPIO_DeInit
+                0x00000000       0x48 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .text.LL_GPIO_StructInit
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .text.LL_PWR_DeInit
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_info    0x00000000      0x2ae ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_abbrev  0x00000000      0x139 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_loc     0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_aranges
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_ranges  0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_line    0x00000000      0x1ff ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_str     0x00000000      0x2a5 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .debug_frame   0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .text.LL_I2C_DeInit
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .text.LL_I2C_Init
+                0x00000000       0xe0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .text.LL_I2C_StructInit
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_info    0x00000000      0x6fc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_abbrev  0x00000000      0x23d ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_loc     0x00000000      0x2ac ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_ranges  0x00000000       0x98 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_line    0x00000000      0x3a2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_str     0x00000000      0x446 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .debug_frame   0x00000000       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text.BSP_LED_Init
+                0x00000000       0x3c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text.BSP_LED_DeInit
+                0x00000000       0x1c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text.BSP_LED_On
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text.BSP_LED_Off
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text.BSP_LED_Toggle
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .rodata.LED_PIN
+                0x00000000        0x2 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .data.LED_PORT
+                0x00000000        0x4 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_info    0x00000000      0x67b ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_abbrev  0x00000000      0x1e1 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_loc     0x00000000      0x22f ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_aranges
+                0x00000000       0x40 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_ranges  0x00000000       0xf8 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_line    0x00000000      0x385 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_str     0x00000000      0x380 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .debug_frame   0x00000000       0x64 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_UART_TxChar
+                0x00000000       0x18 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_UART_TxHex8
+                0x00000000       0x20 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_UART_TxHex16
+                0x00000000       0x34 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_UART_TxHex32
+                0x00000000       0x5c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_UART_TxString
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.BSP_USART_Config
+                0x00000000      0x14c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.__io_putchar
+                0x00000000       0x1c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text.__io_getchar
+                0x00000000       0x14 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._write   0x00000000       0x1a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._read    0x00000000       0x1a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._isatty  0x00000000       0x16 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._close   0x00000000       0x16 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._lseek   0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._fstat   0x00000000       0x1a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._getpid  0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text._kill    0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .rodata.HEX_TABLE
+                0x00000000       0x10 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_info    0x00000000     0x1af3 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_abbrev  0x00000000      0x37e ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_loc     0x00000000      0x933 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_aranges
+                0x00000000       0x98 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_ranges  0x00000000      0x248 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_line    0x00000000      0xa1c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_str     0x00000000      0xa59 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .debug_frame   0x00000000      0x198 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+ .text          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .data          0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .bss           0x00000000        0x0 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .text.BSP_RCC_HSI_24MConfig
+                0x00000000       0x84 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .text.BSP_RCC_HSI_8MConfig
+                0x00000000       0x58 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .text.BSP_RCC_HSE_Config
+                0x00000000       0x64 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_info    0x00000000      0x7a6 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_abbrev  0x00000000      0x1f5 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_loc     0x00000000      0x15f ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_aranges
+                0x00000000       0x30 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_ranges  0x00000000      0x220 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_line    0x00000000      0x571 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_str     0x00000000      0x439 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .comment       0x00000000       0x3a ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .debug_frame   0x00000000       0x58 ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .ARM.attributes
+                0x00000000       0x2c ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+ .text          0x00000000        0x0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .data          0x00000000        0x0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .bss           0x00000000        0x0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .rodata.APBPrescTable
+                0x00000000       0x20 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .text          0x00000000       0x14 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+ .data          0x00000000        0x0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+ .bss           0x00000000        0x0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x1d4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .text.setvbuf  0x00000000      0x16c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-setvbuf.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .text.malloc   0x00000000       0x14 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .text.free     0x00000000       0x14 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000       0x54 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .text.__smakebuf_r
+                0x00000000       0x82 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-makebuf.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .text._fstat_r
+                0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-fstatr.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .text._isatty_r
+                0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-isattyr.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .comment       0x00000000       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x00000000        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00000c00         xrw
+FLASH            0x08000000         0x00004000         xr
+DATA             0x08004000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
+LOAD ./Build/User/persist.o
+LOAD ./Build/User/py32f0xx_it.o
+LOAD ./Build/User/main.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_exti.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_led.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_dma.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rtc.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_rcc.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_spi.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_crc.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_comp.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_lptim.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_adc.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_usart.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_pwr.o
+LOAD ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_i2c.o
+LOAD ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_led.o
+LOAD ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_printf.o
+LOAD ./Build/Libraries/PY32F0xx_LL_BSP/Src/py32f0xx_bsp_clock.o
+LOAD ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+LOAD ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+START GROUP
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtend.o
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+                0x20000c00                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000100                        _Min_Heap_Size = 0x100
+                0x00000200                        _Min_Stack_Size = 0x200
+                0x00001000                        _USER_DATA_SIZE = 0x1000
+
+.ram_vector     0x20000000       0xc0
+ *(.ram_vector)
+ .ram_vector    0x20000000       0xc0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+
+.isr_vector     0x08000000       0xc0
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xc0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+                0x08000000                g_pfnVectors
+                0x080000c0                        . = ALIGN (0x4)
+
+.text           0x080000c0      0xd3c
+                0x080000c0                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000c0       0x14 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+                0x080000c0                __gnu_thumb1_case_uqi
+ .text          0x080000d4      0x114 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                0x080000d4                __udivsi3
+                0x080000d4                __aeabi_uidiv
+                0x080001e0                __aeabi_uidivmod
+ .text          0x080001e8        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x080001e8                __aeabi_ldiv0
+                0x080001e8                __aeabi_idiv0
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x080001ec       0x28 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x08000214       0x20 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.memset   0x08000234       0x10 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+                0x08000234                memset
+ .text.__libc_init_array
+                0x08000244       0x48 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+                0x08000244                __libc_init_array
+ .text.Flash_Write
+                0x0800028c       0x70 ./Build/User/persist.o
+ .text.Persist_Init
+                0x080002fc       0x68 ./Build/User/persist.o
+                0x080002fc                Persist_Init
+ .text.Persist_Read
+                0x08000364       0x40 ./Build/User/persist.o
+                0x08000364                Persist_Read
+ .text.Persist_DumpPage
+                0x080003a4       0x20 ./Build/User/persist.o
+                0x080003a4                Persist_DumpPage
+ .text.Persist_Save
+                0x080003c4       0xf0 ./Build/User/persist.o
+                0x080003c4                Persist_Save
+ .text.NMI_Handler
+                0x080004b4        0x2 ./Build/User/py32f0xx_it.o
+                0x080004b4                NMI_Handler
+ .text.HardFault_Handler
+                0x080004b6        0x2 ./Build/User/py32f0xx_it.o
+                0x080004b6                HardFault_Handler
+ .text.SVC_Handler
+                0x080004b8        0x2 ./Build/User/py32f0xx_it.o
+                0x080004b8                SVC_Handler
+ .text.PendSV_Handler
+                0x080004ba        0x2 ./Build/User/py32f0xx_it.o
+                0x080004ba                PendSV_Handler
+ .text.SysTick_Handler
+                0x080004bc        0x2 ./Build/User/py32f0xx_it.o
+                0x080004bc                SysTick_Handler
+ *fill*         0x080004be        0x2 
+ .text.LL_APB1_GRP2_EnableClock
+                0x080004c0       0x1c ./Build/User/main.o
+ .text.TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x080004dc       0x1c ./Build/User/main.o
+                0x080004dc                TIM1_BRK_UP_TRG_COM_IRQHandler
+ .text.TIM16_IRQHandler
+                0x080004f8       0x1c ./Build/User/main.o
+                0x080004f8                TIM16_IRQHandler
+ .text.USART1_IRQHandler
+                0x08000514       0x24 ./Build/User/main.o
+                0x08000514                USART1_IRQHandler
+ .text.Transmit
+                0x08000538       0x28 ./Build/User/main.o
+                0x08000538                Transmit
+ .text.Load_Message
+                0x08000560       0x48 ./Build/User/main.o
+                0x08000560                Load_Message
+ .text.startup.main
+                0x080005a8      0x5c8 ./Build/User/main.o
+                0x080005a8                main
+ .text.LL_Init1msTick
+                0x08000b70       0x20 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+                0x08000b70                LL_Init1msTick
+ .text.LL_SetSystemCoreClock
+                0x08000b90        0xc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+                0x08000b90                LL_SetSystemCoreClock
+ .text.LL_FLASH_Unlock
+                0x08000b9c       0x24 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+                0x08000b9c                LL_FLASH_Unlock
+ .text.LL_FLASH_Lock
+                0x08000bc0       0x18 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+                0x08000bc0                LL_FLASH_Lock
+ .text.LL_TIM_Init
+                0x08000bd8       0x50 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+                0x08000bd8                LL_TIM_Init
+ .text.LL_GPIO_Init
+                0x08000c28       0xb4 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+                0x08000c28                LL_GPIO_Init
+ .text.SystemCoreClockUpdate
+                0x08000cdc       0x5c ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                0x08000cdc                SystemCoreClockUpdate
+ .text.SystemInit
+                0x08000d38       0x48 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                0x08000d38                SystemInit
+ .text.Reset_Handler
+                0x08000d80       0x50 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+                0x08000d80                Reset_Handler
+ .text.Default_Handler
+                0x08000dd0        0x2 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+                0x08000dd0                TIM1_CC_IRQHandler
+                0x08000dd0                I2C1_IRQHandler
+                0x08000dd0                SPI1_IRQHandler
+                0x08000dd0                EXTI2_3_IRQHandler
+                0x08000dd0                EXTI4_15_IRQHandler
+                0x08000dd0                RCC_IRQHandler
+                0x08000dd0                Default_Handler
+                0x08000dd0                EXTI0_1_IRQHandler
+                0x08000dd0                ADC_COMP_IRQHandler
+                0x08000dd0                FLASH_IRQHandler
+                0x08000dd0                LPTIM1_IRQHandler
+ .text.memcpy   0x08000dd2       0x12 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+                0x08000dd2                memcpy
+ *(.glue_7)
+ .glue_7        0x08000de4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000de4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08000de4        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08000de4        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+                0x08000de4                _init
+ .init          0x08000de8        0x8 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08000df0        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+                0x08000df0                _fini
+ .fini          0x08000df4        0x8 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+                0x08000dfc                        . = ALIGN (0x4)
+                0x08000dfc                        _etext = .
+
+.vfp11_veneer   0x08000dfc        0x0
+ .vfp11_veneer  0x08000dfc        0x0 linker stubs
+
+.v4_bx          0x08000dfc        0x0
+ .v4_bx         0x08000dfc        0x0 linker stubs
+
+.iplt           0x08000dfc        0x0
+ .iplt          0x08000dfc        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rodata         0x08000dfc      0x188
+                0x08000dfc                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08000dfc        0x9 ./Build/User/main.o
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x08000e05       0xf4 ./Build/User/main.o
+                                 0xf7 (size before relaxing)
+ .rodata.code   0x08000ef9       0x2b ./Build/User/main.o
+                0x08000ef9                code
+ .rodata.HSIFreqTable
+                0x08000f24       0x20 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                0x08000f24                HSIFreqTable
+ .rodata.AHBPrescTable
+                0x08000f44       0x40 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                0x08000f44                AHBPrescTable
+                0x08000f84                        . = ALIGN (0x4)
+
+.rel.dyn        0x08000f84        0x0
+ .rel.iplt      0x08000f84        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08000f84        0x0
+                0x08000f84                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x08000f84                        __exidx_end = .
+
+.preinit_array  0x08000f84        0x0
+                0x08000f84                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08000f84                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08000f84        0x4
+                0x08000f84                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08000f84        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08000f88                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000f88        0x4
+                0x08000f88                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08000f88        0x4 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08000f8c                        PROVIDE (__fini_array_end = .)
+                0x08000f8c                        _sidata = LOADADDR (.data)
+
+.data           0x200000c0        0x8 load address 0x08000f8c
+                0x200000c0                        . = ALIGN (0x4)
+                0x200000c0                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.chr      0x200000c0        0x1 ./Build/User/main.o
+                0x200000c0                chr
+ .data.beacon_time
+                0x200000c1        0x1 ./Build/User/main.o
+                0x200000c1                beacon_time
+ *fill*         0x200000c2        0x2 
+ .data.SystemCoreClock
+                0x200000c4        0x4 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                0x200000c4                SystemCoreClock
+                0x200000c8                        . = ALIGN (0x4)
+                0x200000c8                        _edata = .
+
+.igot.plt       0x200000c8        0x0 load address 0x08000f94
+ .igot.plt      0x200000c8        0x0 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x200000c8                        . = ALIGN (0x4)
+
+.bss            0x200000c8       0xb8 load address 0x08000f94
+                0x200000c8                        _sbss = .
+                0x200000c8                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x200000c8        0x1 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ *fill*         0x200000c9        0x3 
+ .bss.object.0  0x200000cc       0x18 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss.page      0x200000e4        0x1 ./Build/User/persist.o
+ *fill*         0x200000e5        0x3 
+ .bss.end_pos   0x200000e8        0x4 ./Build/User/persist.o
+ .bss.start_pos
+                0x200000ec        0x4 ./Build/User/persist.o
+ .bss.play_cnt  0x200000f0        0x1 ./Build/User/main.o
+                0x200000f0                play_cnt
+ .bss.sym_cnt   0x200000f1        0x1 ./Build/User/main.o
+                0x200000f1                sym_cnt
+ .bss.encoder_state
+                0x200000f2        0x1 ./Build/User/main.o
+                0x200000f2                encoder_state
+ .bss.message_incoming
+                0x200000f3        0x1 ./Build/User/main.o
+                0x200000f3                message_incoming
+ .bss.time_unit_eapsed
+                0x200000f4        0x1 ./Build/User/main.o
+                0x200000f4                time_unit_eapsed
+ *fill*         0x200000f5        0x3 
+ .bss.TX_idx    0x200000f8        0x4 ./Build/User/main.o
+                0x200000f8                TX_idx
+ .bss.RX_idx    0x200000fc        0x4 ./Build/User/main.o
+                0x200000fc                RX_idx
+ .bss.message   0x20000100       0x80 ./Build/User/main.o
+                0x20000100                message
+ *(COMMON)
+                0x20000180                        . = ALIGN (0x4)
+                0x20000180                        _ebss = .
+                0x20000180                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000180      0x300 load address 0x08000f94
+                0x20000180                        . = ALIGN (0x8)
+                0x20000180                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20000280                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000180      0x100 
+                0x20000480                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000280      0x200 
+                0x20000480                        . = ALIGN (0x8)
+
+.user_data      0x08004000        0x0
+                0x08004000                        . = ALIGN (0x4)
+                0x08004000                        _USER_DATA = .
+ *(.user_data)
+                0x08004000                        . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000076       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x000000a2       0x2c ./Build/User/persist.o
+ .ARM.attributes
+                0x000000ce       0x2c ./Build/User/py32f0xx_it.o
+ .ARM.attributes
+                0x000000fa       0x2c ./Build/User/main.o
+ .ARM.attributes
+                0x00000126       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .ARM.attributes
+                0x00000152       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .ARM.attributes
+                0x0000017e       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .ARM.attributes
+                0x000001aa       0x2c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .ARM.attributes
+                0x000001d6       0x2c ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .ARM.attributes
+                0x00000202       0x22 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+ .ARM.attributes
+                0x00000224       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x00000242       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000260       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000027e       0x2c /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000002aa       0x1e /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(Build/app.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
+LOAD /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/libgcc.a
+
+.comment        0x00000000       0x39
+ .comment       0x00000000       0x39 /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+                                 0x3a (size before relaxing)
+ .comment       0x00000039       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memset.o)
+ .comment       0x00000039       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-init.o)
+ .comment       0x00000039       0x3a ./Build/User/persist.o
+ .comment       0x00000039       0x3a ./Build/User/py32f0xx_it.o
+ .comment       0x00000039       0x3a ./Build/User/main.o
+ .comment       0x00000039       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .comment       0x00000039       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .comment       0x00000039       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .comment       0x00000039       0x3a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .comment       0x00000039       0x3a ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .comment       0x00000039       0x3a /home/pali/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_info     0x00000000     0x5c2c
+ .debug_info    0x00000000      0x855 ./Build/User/persist.o
+ .debug_info    0x00000855       0x78 ./Build/User/py32f0xx_it.o
+ .debug_info    0x000008cd     0x1f65 ./Build/User/main.o
+ .debug_info    0x00002832      0x488 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_info    0x00002cba     0x10b1 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_info    0x00003d6b     0x12ea ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_info    0x00005055      0x798 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_info    0x000057ed      0x40d ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .debug_info    0x00005bfa       0x32 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+
+.debug_abbrev   0x00000000     0x1467
+ .debug_abbrev  0x00000000      0x326 ./Build/User/persist.o
+ .debug_abbrev  0x00000326       0x64 ./Build/User/py32f0xx_it.o
+ .debug_abbrev  0x0000038a      0x48c ./Build/User/main.o
+ .debug_abbrev  0x00000816      0x283 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_abbrev  0x00000a99      0x3e6 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_abbrev  0x00000e7f      0x299 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_abbrev  0x00001118      0x1f8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_abbrev  0x00001310      0x133 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .debug_abbrev  0x00001443       0x24 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+
+.debug_loc      0x00000000     0x2e67
+ .debug_loc     0x00000000      0x428 ./Build/User/persist.o
+ .debug_loc     0x00000428      0x8f6 ./Build/User/main.o
+ .debug_loc     0x00000d1e      0x1e3 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_loc     0x00000f01      0xb0f ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_loc     0x00001a10      0xff2 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_loc     0x00002a02      0x3db ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_loc     0x00002ddd       0x8a ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+
+.debug_aranges  0x00000000      0x2c8
+ .debug_aranges
+                0x00000000       0x40 ./Build/User/persist.o
+ .debug_aranges
+                0x00000040       0x40 ./Build/User/py32f0xx_it.o
+ .debug_aranges
+                0x00000080       0x50 ./Build/User/main.o
+ .debug_aranges
+                0x000000d0       0x38 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_aranges
+                0x00000108       0xc0 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_aranges
+                0x000001c8       0x80 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_aranges
+                0x00000248       0x30 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_aranges
+                0x00000278       0x28 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .debug_aranges
+                0x000002a0       0x28 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+
+.debug_ranges   0x00000000      0x918
+ .debug_ranges  0x00000000       0xd0 ./Build/User/persist.o
+ .debug_ranges  0x000000d0       0x30 ./Build/User/py32f0xx_it.o
+ .debug_ranges  0x00000100      0x450 ./Build/User/main.o
+ .debug_ranges  0x00000550       0x78 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_ranges  0x000005c8      0x1a8 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_ranges  0x00000770      0x100 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_ranges  0x00000870       0x58 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_ranges  0x000008c8       0x30 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .debug_ranges  0x000008f8       0x20 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+
+.debug_line     0x00000000     0x3aac
+ .debug_line    0x00000000      0x67f ./Build/User/persist.o
+ .debug_line    0x0000067f       0x9e ./Build/User/py32f0xx_it.o
+ .debug_line    0x0000071d      0xf68 ./Build/User/main.o
+ .debug_line    0x00001685      0x379 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_line    0x000019fe      0xf49 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_line    0x00002947      0xa29 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_line    0x00003370      0x3f3 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_line    0x00003763      0x2a9 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+ .debug_line    0x00003a0c       0xa0 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+
+.debug_str      0x00000000     0x1800
+ .debug_str     0x00000000      0x34c ./Build/User/persist.o
+                                0x3bb (size before relaxing)
+ .debug_str     0x0000034c       0x5c ./Build/User/py32f0xx_it.o
+                                0x135 (size before relaxing)
+ .debug_str     0x000003a8      0x84c ./Build/User/main.o
+                                0xb29 (size before relaxing)
+ .debug_str     0x00000bf4       0xda ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+                                0x346 (size before relaxing)
+ .debug_str     0x00000cce      0x408 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+                                0x751 (size before relaxing)
+ .debug_str     0x000010d6      0x51a ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+                                0x88b (size before relaxing)
+ .debug_str     0x000015f0      0x126 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+                                0x3e5 (size before relaxing)
+ .debug_str     0x00001716       0x8f ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o
+                                0x2fc (size before relaxing)
+ .debug_str     0x000017a5       0x5b ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/gcc/startup_py32f002a.o
+                                 0xa4 (size before relaxing)
+
+.debug_frame    0x00000000      0x5cc
+ .debug_frame   0x00000000       0xa8 ./Build/User/persist.o
+ .debug_frame   0x000000a8       0x60 ./Build/User/py32f0xx_it.o
+ .debug_frame   0x00000108       0xb4 ./Build/User/main.o
+ .debug_frame   0x000001bc       0x5c ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_utils.o
+ .debug_frame   0x00000218      0x1fc ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_flash.o
+ .debug_frame   0x00000414      0x124 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_tim.o
+ .debug_frame   0x00000538       0x54 ./Build/Libraries/PY32F0xx_LL_Driver/Src/py32f0xx_ll_gpio.o
+ .debug_frame   0x0000058c       0x40 ./Build/Libraries/CMSIS/Device/PY32F0xx/Source/system_py32f0xx.o

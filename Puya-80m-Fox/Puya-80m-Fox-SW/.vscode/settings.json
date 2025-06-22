@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "C_Cpp.errorSquiggles": "disabled",
+        "py32f0xx_ll_gpio.h": "c",
+        "py32f0xx_ll_utils.h": "c",
+        "py32f0xx_ll_tim.h": "c",
+        "py32f002ax5.h": "c",
+        "py32f0xx_ll_usart.h": "c",
+        "cstdint": "c",
+        "py32f0xx_ll_flash.h": "c",
+        "system_error": "c",
+        "atomic": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
