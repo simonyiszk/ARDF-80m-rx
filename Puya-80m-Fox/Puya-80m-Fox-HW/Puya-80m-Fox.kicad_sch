@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "f7d38642-de97-4770-af94-a76e9c129e38")
 	(paper "A4")
+	(title_block
+		(title "Puya-80m-Fox")
+		(date "2025-06-28")
+		(company "HA3PB")
+		(comment 1 "Weisz Pál")
+	)
 	(lib_symbols
 		(symbol "BC847_1"
 			(pin_names

@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "0dcd2f8a-70e0-4fe9-943e-65dbf676a0ad")
 	(paper "A4")
+	(title_block
+		(title "ARDF 80m RX - SA612 version")
+		(date "2025-06-28")
+		(company "HA3PB")
+		(comment 1 "Weisz Pál")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM358"
 			(pin_names
