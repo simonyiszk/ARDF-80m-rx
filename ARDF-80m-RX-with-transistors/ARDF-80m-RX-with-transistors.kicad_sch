@@ -4441,7 +4441,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 106.68 105.4099 90)
 			(effects
 				(font
@@ -5485,7 +5485,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 106.68 124.4599 90)
 			(effects
 				(font
@@ -5786,7 +5786,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 106.68 116.8399 90)
 			(effects
 				(font
@@ -5875,7 +5875,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D"
+		(property "Value" "1N4148"
 			(at 106.68 132.0799 90)
 			(effects
 				(font
